@@ -1,0 +1,2 @@
+.tab-list__tab--title{position:relative;width:70px;border:1px solid #fff;background-color:#fff;outline:none;display:inline-block;padding:10px;color:#297ca0}.active-tab{border:1px solid #ccc;color:#000}.active-tab:after{position:absolute;top:100%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);content:"";display:block;width:67.5px;height:5px;background-color:#fff}.tab-list__tab--current-content:before{content:"";display:block;height:1px;background-color:#ccc}
+/*# sourceMappingURL=main.8e3d518c.chunk.css.map */
